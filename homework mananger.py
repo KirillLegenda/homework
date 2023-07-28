@@ -20,6 +20,8 @@ cruk_size = int(4)
 cruk_w = int(4)
 cruk_h = int(4)
 
+ejwqufhq3fbghq3fuqwhufwdfqwrfqwe3fqw
+
 
 (Ui_MainWindow, QMainWindow) = uic.loadUiType('homework.ui')
 
