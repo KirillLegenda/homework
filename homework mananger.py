@@ -21,6 +21,7 @@ cruk_w = int(4)
 cruk_h = int(4)
 
 
+
 (Ui_MainWindow, QMainWindow) = uic.loadUiType('homework.ui')
 
 class MainWindow(QMainWindow, Ui_MainWindow, QWidget):
